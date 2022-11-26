@@ -1,0 +1,73 @@
+{
+  "movies": [
+    {
+      "title": "Jakis film",
+      "director": {
+        "firstName": "Jan",
+        "lastName": "Brzechwa"
+      },
+      "genre": "super",
+      "year": 1999,
+      "mainCharacterNames": [
+        {
+          "firstName": "John",
+          "lastName": "Macan"
+        },
+        {
+          "firstName": "John2",
+          "lastName": "Macan2"
+        },
+        {
+          "firstName": "John3",
+          "lastName": "Macan3"
+        }
+      ]
+    },
+    {
+      "title": "Jakis film 2",
+      "director": {
+        "firstName": "Jan2",
+        "lastName": "Brzechwa2"
+      },
+      "genre": "super 2",
+      "year": 2000,
+      "mainCharacterNames": [
+        {
+          "firstName": "John",
+          "lastName": "Macan"
+        },
+        {
+          "firstName": "John2",
+          "lastName": "Macan2"
+        },
+        {
+          "firstName": "JohnNiePow",
+          "lastName": "MacanNiePow"
+        }
+      ]
+    },
+    {
+      "title": "Jakis film 3",
+      "director": {
+        "firstName": "Jan",
+        "lastName": "Brzechwa"
+      },
+      "genre": "super3",
+      "year": 2001,
+      "mainCharacterNames": [
+        {
+          "firstName": "JohnM3NiePow",
+          "lastName": "MacanM3NiePow"
+        },
+        {
+          "firstName": "John2",
+          "lastName": "Macan2"
+        },
+        {
+          "firstName": "Baska",
+          "lastName": "Wojecka"
+        }
+      ]
+    }
+  ]
+}
