@@ -1,5 +1,9 @@
 public class Director extends Person{
-    public Director(String firstName, String lastName) {
+    private Director(String firstName, String lastName) {
         super(firstName, lastName);
     }
+
+    private Director() {
+    }
+
 }

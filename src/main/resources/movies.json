@@ -8,7 +8,7 @@
       },
       "genre": "super",
       "year": 1999,
-      "mainCharacterNames": [
+      "actors": [
         {
           "firstName": "John",
           "lastName": "Macan"
@@ -31,7 +31,7 @@
       },
       "genre": "super 2",
       "year": 2000,
-      "mainCharacterNames": [
+      "actors": [
         {
           "firstName": "John",
           "lastName": "Macan"
@@ -54,7 +54,7 @@
       },
       "genre": "super3",
       "year": 2001,
-      "mainCharacterNames": [
+      "actors": [
         {
           "firstName": "JohnM3NiePow",
           "lastName": "MacanM3NiePow"
