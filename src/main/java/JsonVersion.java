@@ -12,6 +12,9 @@ public class JsonVersion {
 
         File file  = new File("src/main/resources/movies.json");
         MovieLibrary movieLibrary = objectMapper.readValue(file, MovieLibrary.class);
-        System.out.println(movieLibrary);
+//        System.out.println(movieLibrary);
+
+//        movieLibrary.printMovieYear(2001,2002);
+        movieLibrary.printActorDetails("John", "Macan");
     }
 }

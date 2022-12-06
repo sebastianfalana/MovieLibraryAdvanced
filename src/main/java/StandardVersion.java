@@ -14,6 +14,16 @@ public class StandardVersion {
                 System.out.println("Druga data");
                 int endDay = new Scanner(System.in).nextInt();
                 movieLibrary.printMovieYear(startDay,endDay);
+                break;
+            case 2:
+                break;
+            case 3:
+                System.out.println("Podaj imie Aktora");
+                String actorFirstName = new Scanner(System.in).next();
+                System.out.println("Podaj nazwisko Aktora");
+                String actorLastName = new Scanner(System.in).next();
+                movieLibrary.printActorDetails(actorFirstName,actorLastName);
+
         }
     }
 }
