@@ -6,5 +6,4 @@ public class Actor extends Person{
     public Actor() {
     }
 
-
 }

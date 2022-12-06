@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Menu {
 
-    public static int printOption() {
+
+    public int printOption() {
 
         System.out.println("1.Podaj dwie daty aby wyświetlić nazwy filmów wydanych pomiędzy tymi datami" +
                 "\n2.Wyświetl wszystkie informacje o losowym filmie" +
@@ -10,4 +11,5 @@ public class Menu {
 
         return new Scanner(System.in).nextInt();
     }
+
 }
